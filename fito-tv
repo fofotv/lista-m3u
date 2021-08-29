@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-log=¨http://static3.businessinsider.com/image/520cea5f6bb3f77d30000010/fox-sports-1-avoids-disaster-strikes-deals-with-directv-time-warner-and-dish.jpg¨,FOX SPORT 3 FHD
+
+http://54.39.16.47:25461/live/623231509/623231509/20718.m3u8
+
+#EXTINF:-1 ,Canal TEN
+
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+
+#EXTINF:-1 ,Canal Campus TV
+
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+
+#EXTINF:-1 tvg-log=¨¨, nombre canal
+
+url
+
+#EXTINF:-1 tvg-log=¨¨, nombre canal
+
+url
+
+#EXTINF:-1 tvg-log=¨¨, nombre canal
+
+url
+
+#EXTINF:-1 tvg-log=¨¨, nombre canal
+
+url
+
+#EXTINF:-1 tvg-log=¨¨, nombre canal
+
+url
